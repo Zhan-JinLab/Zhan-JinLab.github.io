@@ -1,0 +1,78 @@
+# Selected publications for Professor Zhan Renya
+# Full list contains 111+ publications
+
+- year: 2025
+  publications:
+    - title: "Primary cerebellar angiosarcoma: a rare case report and literature review"
+      authors: "Fan Wu, Zihan Xu, Tianfu Sun, [...], Renya Zhan"
+      journal: "BMC Surgery"
+      citations: null
+      doi: null
+      topic: "Neuro-oncology"
+
+    - title: "In Situ Ferroptosis with Global Dynamics Visualization for Glioblastoma Theranostics"
+      authors: "Rajneesh Mungur, Ping Han, Jun Gu, [...], Renya Zhan"
+      journal: "Journal of Medicinal Chemistry"
+      citations: null
+      doi: null
+      topic: "Glioblastoma"
+
+    - title: "Tumor Marker Test in Cerebrospinal Fluid for Leptomeningeal Metastasis Diagnosis and Response Assessment in Non-Small-Cell Lung Cancer"
+      authors: "Kaiyuan Huang, Haifeng He, Weili Jin, [...], Qun Chen"
+      journal: "European Journal of Neurology"
+      citations: null
+      doi: null
+      topic: "Neuro-oncology"
+
+    - title: "Septicemia following sudden pituitary apoplexy after bladder tumor surgery: a case report"
+      authors: "Fan Wu, Kaiyuan Huang, Jiqi Yang, [...], Xinfa Pan"
+      journal: "BMC Neurology"
+      citations: null
+      doi: null
+      topic: "Neurosurgery"
+
+- year: 2024
+  publications:
+    - title: "Predicting Prognosis and Immunotherapy Response in Glioblastoma (GBM) With a 5-Gene CAF-Risk Signature"
+      authors: "Haifeng He, Min Yan, Ke Ye, [...], Renya Zhan"
+      journal: "Cancer Reports"
+      citations: null
+      doi: null
+      topic: "Glioblastoma"
+
+    - title: "Multipoint Aspiration Technique Improves Hematoma Evacuation Efficiency and Functional Outcomes in Stereotactic Catheter Aspiration for Spontaneous Intracerebral Hemorrhage"
+      authors: "Hao Jiang, Min Yan, Mantao Chen, [...], Renya Zhan"
+      journal: "World Neurosurgery"
+      citations: null
+      doi: null
+      topic: "Neurovascular diseases"
+
+- year: 2023
+  publications:
+    - title: "Iron enhances reactive oxygen species generation and initiates neutrophil extracellular traps formation on the endothelium to exacerbate stroke"
+      authors: "Weijian Fan, Zebin Fang, Yuxiang Weng, [...], Renya Zhan"
+      journal: "Journal of Cell Communication and Signaling"
+      citations: null
+      doi: null
+      topic: "Cerebrovascular disease"
+
+- year: 2022
+  publications:
+    - title: "Anoctamin-1 is a core component of a mechanosensory anion channel complex in C. elegans"
+      authors: "Wenjuan Zou, Yuedan Fan, Jia Liu, [...], Lijun Kang"
+      journal: "Nature Communications"
+      citations: null
+      doi: null
+      topic: "Neuroscience"
+
+# Note: This is a representative sample. The complete list of 111+ publications
+# can be added following the same YAML structure.
+# 
+# To add more publications, follow this format:
+# - title: "Publication title"
+#   authors: "Author list"
+#   journal: "Journal name, volume, pages"
+#   citations: number or null
+#   doi: "DOI string" or null
+#   topic: "Research area"
+
