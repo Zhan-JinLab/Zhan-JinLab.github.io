@@ -138,7 +138,7 @@ For a complete list of Professor Zhan's publications (111 papers), please see ou
 
 ### Dr. Jin Linchun
 
-For a complete list of Dr. Jin's publications (152 entries), please see our [data files](https://github.com). Selected recent publications include:
+For a complete list of Dr. Jin's publications (152 entries), please see [ResearchGate](https://www.researchgate.net/profile/Linchun-Jin) and [Google Scholar](https://scholar.google.com/citations?user=lyjgFrUAAAAJ&hl=en). Selected recent publications include:
 
 {% if site.data.publications_jin %}
 {% for year_group in site.data.publications_jin %}

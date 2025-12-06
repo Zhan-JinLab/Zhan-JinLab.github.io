@@ -12,7 +12,7 @@ subtitle: Our team combines expertise in neurosurgery, immunology, and cellular 
         <p class="title">Professor | Doctoral Supervisor | Department Chief</p>
         <p class="title">Department of Neurosurgery, First Affiliated Hospital, Zhejiang University School of Medicine</p>
         
-        <p><strong>Contact:</strong> zhanry1960@163.com | Phone: 0571-87236805</p>
+        <p><strong>Contact:</strong> 1196057@zju.edu.cn</p>
         
         <h4 style="margin-top: 1.5rem;">Biography</h4>
         <p>Professor Zhan graduated from Zhejiang Medical University with a BA degree in medicine in 1983. He received his master's degree in neurosurgery from Zhejiang Medical University in 1991, and studied at the University of Kiel in Germany from 1998 to 2002, receiving his Ph.D. in neurosurgery in 2002.</p>
@@ -52,7 +52,7 @@ subtitle: Our team combines expertise in neurosurgery, immunology, and cellular 
         <p class="title">Head of Laboratory | Principal Investigator</p>
         <p class="title">Verified affiliation: University of Florida, Department of Neurosurgery</p>
         
-        <p><strong>Contact:</strong> linchun.jin@zju.edu.cn | 1196057@zju.edu.cn</p>
+        <p><strong>Contact:</strong> linchun.jin@zju.edu.cn</p>
         
         <h4 style="margin-top: 1.5rem;">Research Interests</h4>
         <p>Dr. Jin's research focuses on <strong>brain tumor immunotherapy</strong>, with particular expertise in:</p>
@@ -82,7 +82,7 @@ subtitle: Our team combines expertise in neurosurgery, immunology, and cellular 
             <li><em>Cancer Research</em> (2020): Glutamate dysregulation and VEGF resistance - 106 citations</li>
         </ul>
         
-        <p>For a complete publication list, please see the <a href="{{ '/publications/' | relative_url }}">Publications</a> page.</p>
+        <p>For a complete publication list, please see <a href="https://www.researchgate.net/profile/Linchun-Jin" target="_blank">ResearchGate</a> and <a href="https://scholar.google.com/citations?user=lyjgFrUAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
     </div>
 </div>
 
@@ -110,7 +110,7 @@ subtitle: Our team combines expertise in neurosurgery, immunology, and cellular 
 <div class="team-section">
     <div class="team-member">
         <h3>Shi Rui</h3>
-        <p class="title">Master of Science, Zhejiang University School of Medicine (Graduated)</p>
+        <p class="title">Master of Medicine, Zhejiang University School of Medicine (Graduated)</p>
     </div>
 </div>
 

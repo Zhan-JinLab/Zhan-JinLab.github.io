@@ -9,8 +9,8 @@ lab:
   name: "Zhan/Jin Laboratory"
   institution: "First Affiliated Hospital, Zhejiang University School of Medicine"
   location: "Building 7, 3rd Floor, Zhijiang Campus, 366 Wutong Road, Hangzhou, Zhejiang 310030, China"
-  email: "1196057@zju.edu.cn"
-  secondary_email: "linchun.jin@zju.edu.cn"
+  email: "linchun.jin@zju.edu.cn"
+  secondary_email: "1196057@zju.edu.cn"
 
 # Build settings
 markdown: kramdown
