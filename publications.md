@@ -113,7 +113,7 @@ Our laboratory has published extensively in high-impact journals, advancing the 
 
 ### Professor Zhan Renya
 
-For a complete list of Professor Zhan's publications (111 papers), please see our [data files](https://github.com). Selected recent publications include:
+For a complete list of Professor Zhan's publications (111 papers), please see [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Zhan+Renya%5BAuthor%5D+OR+Zhan+RY%5BAuthor%5D+OR+reyna+zhan%5BAuthor%5D) and [ResearchGate](https://www.researchgate.net/scientific-contributions/Renya-Zhan-14439456). Selected recent publications include:
 
 {% if site.data.publications_zhan %}
 {% for year_group in site.data.publications_zhan %}
