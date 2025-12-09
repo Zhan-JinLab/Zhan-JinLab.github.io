@@ -4,28 +4,34 @@ title: Photos
 subtitle: Laboratory life and research activities
 ---
 
-<div class="coming-soon">
-    <h3>Photo Gallery Coming Soon</h3>
-    <p>We are currently curating photos from our laboratory, research activities, and team events.</p>
-    <p>This section will feature:</p>
-    <ul style="text-align: left; display: inline-block; margin-top: 1rem;">
-        <li>Lab group photos</li>
-        <li>Research activities and experiments</li>
-        <li>Conference presentations and meetings</li>
-        <li>Seminars and educational events</li>
-        <li>Team celebrations and milestones</li>
-    </ul>
-    <p style="margin-top: 2rem;">Check back soon for updates!</p>
-</div>
-
-<!--
-Future structure for photos:
+## Team Portraits
 
 <div class="photo-grid">
     <div class="photo-item">
-        <img src="/assets/images/photo1.jpg" alt="Description">
-        <p class="photo-caption">Caption text</p>
+        <img src="{{ '/assets/images/ZhanRenya.jpg' | relative_url }}" alt="Professor Zhan Renya">
+        <p class="photo-caption">Professor Zhan Renya</p>
+    </div>
+    <div class="photo-item">
+        <img src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="Dr. Jin Linchun">
+        <p class="photo-caption">Dr. Jin Linchun</p>
+    </div>
+    <div class="photo-item">
+        <img src="{{ '/assets/images/HeHaifeng.jpg' | relative_url }}" alt="He Haifeng">
+        <p class="photo-caption">He Haifeng</p>
+    </div>
+    <div class="photo-item">
+        <img src="{{ '/assets/images/MUNGUR_Rajneesh.jpg' | relative_url }}" alt="MUNGUR Rajneesh">
+        <p class="photo-caption">MUNGUR Rajneesh</p>
+    </div>
+    <div class="photo-item">
+        <img src="{{ '/assets/images/ShiRui.jpg' | relative_url }}" alt="Shi Rui">
+        <p class="photo-caption">Shi Rui</p>
     </div>
 </div>
--->
+
+## Research & Lab Highlights
+
+<div class="coming-soon">
+    <p>More lab photos (events, conferences, experiments) will be added soon.</p>
+</div>
 

@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="hero-section">
-    <h1>Zhan/Jin Laboratory</h1>
-    <p>Advancing cancer neuroscience and immunotherapy for brain tumors through innovative CAR-T cell engineering and translational research</p>
+<div class="hero-section" style="background-image: linear-gradient(135deg, rgba(7,75,53,0.82) 0%, rgba(9,105,75,0.82) 50%, rgba(12,122,94,0.82) 100%), url('{{ '/assets/images/Banner.jpg' | relative_url }}');">
+    <div class="hero-inner">
+        <h1>Zhan/Jin Laboratory</h1>
+        <p>Advancing cancer neuroscience and immunotherapy for brain tumors through innovative CAR-T cell engineering and translational research</p>
+    </div>
 </div>
 
 <div class="home-section">
@@ -15,29 +17,34 @@ title: Home
     <p>We integrate cutting-edge cancer neuroscience, cancer immunology, and cellular engineering to tackle fundamental questions about how brain tumors evade immune surveillance and how we can harness the immune system to fight back.</p>
 </div>
 
-<div class="home-section">
-    <h2>Research Focus</h2>
-    <div class="research-grid">
-        <div class="research-area">
-            <h3>Cancer Neuroscience</h3>
-            <p>Investigating the unique neurobiological features of brain tumors and their microenvironment to identify novel therapeutic targets.</p>
+<div class="home-section research-focus-block">
+    <div class="research-text">
+        <h2>Research Focus</h2>
+        <div class="research-grid">
+            <div class="research-area">
+                <h3>Cancer Neuroscience</h3>
+                <p>Investigating the unique neurobiological features of brain tumors and their microenvironment to identify novel therapeutic targets.</p>
+            </div>
+            <div class="research-area">
+                <h3>Cancer Immunology</h3>
+                <p>Understanding immune dysfunction in glioblastoma and developing strategies to enhance anti-tumor immunity.</p>
+            </div>
+            <div class="research-area">
+                <h3>CAR-T Cell Therapy</h3>
+                <p>Engineering chimeric antigen receptor T cells with enhanced tumor-targeting, persistence, and efficacy against solid tumors.</p>
+            </div>
+            <div class="research-area">
+                <h3>Glioblastoma Research</h3>
+                <p>Characterizing mechanisms of treatment resistance and developing combination therapeutic strategies for GBM.</p>
+            </div>
+            <div class="research-area">
+                <h3>Neuro-oncology</h3>
+                <p>Translating laboratory discoveries into clinical applications to improve outcomes for patients with brain tumors.</p>
+            </div>
         </div>
-        <div class="research-area">
-            <h3>Cancer Immunology</h3>
-            <p>Understanding immune dysfunction in glioblastoma and developing strategies to enhance anti-tumor immunity.</p>
-        </div>
-        <div class="research-area">
-            <h3>CAR-T Cell Therapy</h3>
-            <p>Engineering chimeric antigen receptor T cells with enhanced tumor-targeting, persistence, and efficacy against solid tumors.</p>
-        </div>
-        <div class="research-area">
-            <h3>Glioblastoma Research</h3>
-            <p>Characterizing mechanisms of treatment resistance and developing combination therapeutic strategies for GBM.</p>
-        </div>
-        <div class="research-area">
-            <h3>Neuro-oncology</h3>
-            <p>Translating laboratory discoveries into clinical applications to improve outcomes for patients with brain tumors.</p>
-        </div>
+    </div>
+    <div class="research-visual">
+        <img src="{{ '/assets/images/ResearchFocus.jpg' | relative_url }}" alt="Research focus illustration showing glioblastoma immunology and CAR-T therapy">
     </div>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: Team
 subtitle: Our team combines expertise in neurosurgery, immunology, and cellular therapy
 ---
 
