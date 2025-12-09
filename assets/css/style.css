@@ -175,6 +175,9 @@ a:hover {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 var(--spacing-md);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .nav-list {
@@ -212,6 +215,34 @@ a:hover {
     border-color: rgba(255,255,255,0.3);
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     backdrop-filter: blur(4px);
+}
+
+.nav-lang {
+    font-weight: 600;
+    color: rgba(255,255,255,0.9);
+}
+
+.nav-lang a {
+    color: rgba(255,255,255,0.85);
+    padding: 0.1rem 0.35rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.nav-lang a:hover {
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+}
+
+.nav-lang a.active {
+    background: rgba(255,255,255,0.18);
+    color: #fff;
+}
+
+.nav-lang .sep {
+    color: rgba(255,255,255,0.6);
+    margin: 0 0.15rem;
 }
 
 /* ============================================

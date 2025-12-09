@@ -18,7 +18,7 @@ lang: zh
     </div>
     <div class="leader-card">
         <div class="leader-meta">
-            <h3>金林春 博士（Lunchun Jin, Kim），M.D., Ph.D.</h3>
+            <h3>金林春 博士（Lunchun Jin）</h3>
             <p class="role">课题负责人 / 首席研究员</p>
             <p class="affil">佛罗里达大学神经外科（认证任职）</p>
             <a class="leader-link" href="#jin-linchun">查看完整简介 →</a>
@@ -71,7 +71,7 @@ lang: zh
         <img src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="金林春">
     </div>
     <div class="profile-body">
-        <h3>金林春 博士（Lunchun Jin, Kim），M.D., Ph.D.</h3>
+        <h3>金林春 博士（Lunchun Jin）</h3>
         <p class="title">课题负责人 | 首席研究员</p>
         <p class="title">佛罗里达大学神经外科（认证任职）</p>
         <p><strong>邮箱：</strong>linchun.jin@zju.edu.cn</p>

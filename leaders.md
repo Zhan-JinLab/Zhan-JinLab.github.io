@@ -73,7 +73,7 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         <img src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="Dr. Jin Linchun portrait">
     </div>
     <div class="profile-body">
-        <h3>Dr. Jin Linchun (Lunchun Jin, Kim), M.D., Ph.D.</h3>
+        <h3>Dr. Jin Linchun (Lunchun Jin)</h3>
         <p class="title">Head of Laboratory | Principal Investigator</p>
         <p class="title">Verified affiliation: University of Florida, Department of Neurosurgery</p>
         <p><strong>Contact:</strong> linchun.jin@zju.edu.cn</p>
