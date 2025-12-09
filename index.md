@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="hero-section banner-hero" style="background-image: linear-gradient(135deg, rgba(5,35,25,0.68) 0%, rgba(7,75,53,0.72) 45%, rgba(9,105,75,0.75) 100%), url('{{ '/assets/images/Banner.jpg' | relative_url }}');">
+<div class="hero-section banner-hero" style="background-image: linear-gradient(135deg, rgba(18,49,112,0.75) 0%, rgba(23,70,142,0.78) 45%, rgba(34,96,184,0.82) 100%), url('{{ '/assets/images/Banner.jpg' | relative_url }}');">
     <div class="hero-inner">
         <h1>Zhan/Jin Laboratory</h1>
         <p>Advancing cancer neuroscience and immunotherapy for brain tumors through innovative CAR-T cell engineering and translational research</p>
