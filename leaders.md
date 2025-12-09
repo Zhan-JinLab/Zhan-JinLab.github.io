@@ -8,7 +8,6 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
 
 <div class="leaders-grid">
     <div class="leader-card">
-        <img class="leader-avatar" src="{{ '/assets/images/ZhanRenya.jpg' | relative_url }}" alt="Professor Zhan Renya portrait">
         <div class="leader-meta">
             <h3>Professor Zhan Renya, M.D., Ph.D.</h3>
             <p class="role">Honorary Director</p>
@@ -17,7 +16,6 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         </div>
     </div>
     <div class="leader-card">
-        <img class="leader-avatar" src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="Dr. Jin Linchun portrait">
         <div class="leader-meta">
             <h3>Dr. Jin Linchun (Lunchun Jin)</h3>
             <p class="role">Head of Laboratory | Principal Investigator</p>
