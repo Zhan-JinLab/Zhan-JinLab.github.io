@@ -128,6 +128,37 @@ a:hover {
     font-weight: 400;
 }
 
+.lang-switch {
+    margin-top: var(--spacing-sm);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+    color: rgba(255,255,255,0.9);
+}
+
+.lang-switch a {
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+    padding: 0.1rem 0.35rem;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.lang-switch a:hover {
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+}
+
+.lang-switch a.active {
+    background: rgba(255,255,255,0.18);
+    color: #fff;
+}
+
+.lang-switch .sep {
+    color: rgba(255,255,255,0.6);
+}
+
 /* ============================================
    Navigation
    ============================================ */
