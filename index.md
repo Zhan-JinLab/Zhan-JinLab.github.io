@@ -17,10 +17,14 @@ title: Home
     <p>We integrate cutting-edge cancer neuroscience, cancer immunology, and cellular engineering to tackle fundamental questions about how brain tumors evade immune surveillance and how we can harness the immune system to fight back.</p>
 </div>
 
+<div class="focus-image">
+    <img src="{{ '/assets/images/ResearchFocus.jpg' | relative_url }}" alt="Research focus illustration">
+</div>
+
 <div class="home-section research-focus-block">
     <div class="research-text">
         <h2>Research Focus</h2>
-        <div class="research-grid research-grid-five">
+        <div class="research-grid research-grid-five single-row">
             <div class="research-area">
                 <h3>Cancer Neuroscience</h3>
                 <p>Investigating the unique neurobiological features of brain tumors and their microenvironment to identify novel therapeutic targets.</p>

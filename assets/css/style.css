@@ -242,9 +242,12 @@ a:hover {
 }
 
 .mission-hero {
-    background: var(--white) !important;
+    background: var(--white);
     box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
-    background-image: none !important;
+    background-image: linear-gradient(135deg, rgba(18,49,112,0.75) 0%, rgba(23,70,142,0.78) 45%, rgba(34,96,184,0.82) 100%), url('/assets/images/HeroBanner.JPG');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
 }
 
 .hero-inner {
@@ -292,6 +295,22 @@ a:hover {
     column-gap: var(--spacing-md);
 }
 
+.single-row {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: var(--spacing-md);
+}
+
+.focus-image {
+    margin: var(--spacing-xl) 0;
+}
+
+.focus-image img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.08);
+}
+
 /* ============================================
    Research Areas
    ============================================ */
@@ -322,42 +341,103 @@ a:hover {
 }
 
 /* ============================================
-   People/Team Styles
+   Leaders & Team Styles
    ============================================ */
-.team-section {
+.leaders-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: var(--spacing-lg);
     margin-bottom: var(--spacing-2xl);
 }
 
-.team-member {
+.leader-card {
+    display: flex;
+    gap: var(--spacing-md);
+    align-items: center;
     padding: var(--spacing-lg);
-    background-color: var(--bg-light);
-    border-radius: 8px;
-    margin-bottom: var(--spacing-lg);
+    background: linear-gradient(180deg, #ffffff 0%, #f6f9fb 100%);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 12px 24px rgba(15, 40, 71, 0.08);
 }
 
-.team-member h3 {
-    color: var(--primary-color);
+.leader-avatar {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 10px 22px rgba(15, 40, 71, 0.08);
+}
+
+.leader-meta h3 {
+    margin-top: 0;
     margin-bottom: var(--spacing-xs);
 }
 
-.team-member .title {
+.leader-meta .role {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+}
+
+.leader-meta .affil {
+    color: var(--text-light);
+    margin-bottom: var(--spacing-sm);
+}
+
+.leader-link {
+    font-weight: 600;
+    color: var(--accent-color);
+}
+
+.leader-profile {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
+    align-items: start;
+}
+
+.profile-photo img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+}
+
+.profile-body h3 {
+    margin-top: 0;
+}
+
+.profile-body .title {
     color: var(--text-light);
     font-style: italic;
     margin-bottom: var(--spacing-sm);
 }
 
-.students-list {
-    list-style: none;
-    padding-left: 0;
+.team-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
 }
 
-.students-list li {
-    padding: var(--spacing-sm) 0;
-    border-bottom: 1px solid var(--border-color);
+.team-row {
+    display: grid;
+    grid-template-columns: 96px 1fr;
+    gap: var(--spacing-md);
+    align-items: center;
+    padding: var(--spacing-md);
+    background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
 }
 
-.students-list li:last-child {
-    border-bottom: none;
+.team-avatar {
+    width: 96px;
+    height: 96px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
 }
 
 /* ============================================
