@@ -203,6 +203,12 @@ a:hover {
     margin-top: var(--spacing-xl);
 }
 
+.page-content hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+    margin: var(--spacing-lg) 0;
+}
+
 .subtitle {
     font-size: 1.25rem;
     color: var(--text-light);
@@ -605,7 +611,7 @@ a:hover {
 .join-us {
     margin-top: var(--spacing-xl);
     padding: var(--spacing-xl);
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #1f4b99 0%, #2f7ae5 100%);
     color: var(--white);
     border-radius: 8px;
     text-align: center;
