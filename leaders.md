@@ -80,8 +80,9 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
 
         <h4>Education</h4>
         <ul>
-            <li>Bachelor of Medicine: Harbin Medical University</li>
-            <li>Master & Doctor of Medicine: Joint training, Harbin Medical University & University of Florida</li>
+            <li>Bachelor of Medicine — Harbin Medical University</li>
+            <li>Master of Medicine; Doctor of Medicine & Doctor of Philosophy — Joint training, Harbin Medical University & University of Florida</li>
+            <li>Postdoctoral Fellow / Research Fellow — University of Florida</li>
         </ul>
 
         <h4>Research Interests</h4>
