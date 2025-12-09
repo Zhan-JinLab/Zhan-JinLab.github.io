@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="hero-section" style="background-image: linear-gradient(135deg, rgba(7,75,53,0.82) 0%, rgba(9,105,75,0.82) 50%, rgba(12,122,94,0.82) 100%), url('{{ '/assets/images/Banner.jpg' | relative_url }}');">
+<div class="hero-section banner-hero" style="background-image: linear-gradient(135deg, rgba(5,35,25,0.68) 0%, rgba(7,75,53,0.72) 45%, rgba(9,105,75,0.75) 100%), url('{{ '/assets/images/Banner.jpg' | relative_url }}');">
     <div class="hero-inner">
         <h1>Zhan/Jin Laboratory</h1>
         <p>Advancing cancer neuroscience and immunotherapy for brain tumors through innovative CAR-T cell engineering and translational research</p>
@@ -20,7 +20,7 @@ title: Home
 <div class="home-section research-focus-block">
     <div class="research-text">
         <h2>Research Focus</h2>
-        <div class="research-grid">
+        <div class="research-grid research-grid-five">
             <div class="research-area">
                 <h3>Cancer Neuroscience</h3>
                 <p>Investigating the unique neurobiological features of brain tumors and their microenvironment to identify novel therapeutic targets.</p>

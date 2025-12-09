@@ -208,7 +208,7 @@ a:hover {
 .hero-section {
     position: relative;
     text-align: left;
-    padding: var(--spacing-2xl) var(--spacing-lg);
+    padding: var(--spacing-2xl) var(--spacing-xl);
     color: var(--white);
     border-radius: 14px;
     margin-bottom: var(--spacing-2xl);
@@ -219,7 +219,8 @@ a:hover {
 }
 
 .hero-inner {
-    max-width: 760px;
+    max-width: 820px;
+    padding: var(--spacing-lg);
 }
 
 .hero-section h1 {
@@ -246,7 +247,7 @@ a:hover {
 
 .research-focus-block {
     display: grid;
-    grid-template-columns: 1.4fr 1fr;
+    grid-template-columns: 1.6fr 1fr;
     gap: var(--spacing-xl);
     align-items: center;
 }
@@ -255,6 +256,11 @@ a:hover {
     width: 100%;
     border-radius: 12px;
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+
+.research-grid-five {
+    grid-template-columns: repeat(5, minmax(170px, 1fr));
+    column-gap: var(--spacing-md);
 }
 
 /* ============================================
