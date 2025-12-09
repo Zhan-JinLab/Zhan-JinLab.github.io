@@ -19,7 +19,7 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         <div class="leader-meta">
             <h3>Dr. Jin Linchun (Lunchun Jin, Kim), M.D., Ph.D.</h3>
             <p class="role">Head of Laboratory | Principal Investigator</p>
-            <p class="affil">Department of Neurosurgery, University of Florida (verified affiliation)</p>
+            <p class="affil">Department of Neurosurgery, First Affiliated Hospital, Zhejiang University School of Medicine</p>
             <a class="leader-link" href="#jin-linchun">View full profile →</a>
         </div>
     </div>
@@ -75,8 +75,14 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
     <div class="profile-body">
         <h3>Dr. Jin Linchun (Lunchun Jin, Kim), M.D., Ph.D.</h3>
         <p class="title">Head of Laboratory | Principal Investigator</p>
-        <p class="title">Verified affiliation: University of Florida, Department of Neurosurgery</p>
+        <p class="title">Department of Neurosurgery, First Affiliated Hospital, Zhejiang University School of Medicine</p>
         <p><strong>Contact:</strong> linchun.jin@zju.edu.cn</p>
+
+        <h4>Education</h4>
+        <ul>
+            <li>Bachelor of Medicine: Harbin Medical University</li>
+            <li>Master & Doctor of Medicine: Joint training, Harbin Medical University & University of Florida</li>
+        </ul>
 
         <h4>Research Interests</h4>
         <p>Dr. Jin's research focuses on <strong>brain tumor immunotherapy</strong>, with particular expertise in:</p>

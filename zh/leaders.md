@@ -20,7 +20,7 @@ lang: zh
         <div class="leader-meta">
             <h3>金林春 博士（Lunchun Jin, Kim），M.D., Ph.D.</h3>
             <p class="role">课题负责人 / 首席研究员</p>
-            <p class="affil">佛罗里达大学神经外科（认证任职）</p>
+            <p class="affil">浙江大学医学院附属第一医院神经外科</p>
             <a class="leader-link" href="#jin-linchun">查看完整简介 →</a>
         </div>
     </div>
@@ -73,8 +73,14 @@ lang: zh
     <div class="profile-body">
         <h3>金林春 博士（Lunchun Jin, Kim），M.D., Ph.D.</h3>
         <p class="title">课题负责人 | 首席研究员</p>
-        <p class="title">佛罗里达大学神经外科（认证任职）</p>
+        <p class="title">浙江大学医学院附属第一医院神经外科</p>
         <p><strong>邮箱：</strong>linchun.jin@zju.edu.cn</p>
+
+        <h4>教育背景</h4>
+        <ul>
+            <li>本科：哈尔滨医科大学</li>
+            <li>硕士 & 博士：哈尔滨医科大学 & 佛罗里达大学（联合培养）</li>
+        </ul>
 
         <h4>研究兴趣</h4>
         <p>脑肿瘤免疫治疗，尤其：</p>
