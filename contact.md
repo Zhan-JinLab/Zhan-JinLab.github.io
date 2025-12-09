@@ -21,14 +21,14 @@ subtitle: Get in touch with the Zhan/Jin Laboratory
     <div class="contact-section">
         <h3>Email Contacts</h3>
         <p>
-            <strong>Dr. Jin Linchun</strong><br>
-            Principal Investigator<br>
-            <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>
-        </p>
-        <p style="margin-top: 1.5rem;">
             <strong>Professor Zhan Renya</strong><br>
             Honorary Director<br>
             <a href="mailto:1196057@zju.edu.cn">1196057@zju.edu.cn</a>
+        </p>
+        <p style="margin-top: 1.5rem;">
+            <strong>Dr. Jin Linchun</strong><br>
+            Principal Investigator<br>
+            <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>
         </p>
     </div>
 

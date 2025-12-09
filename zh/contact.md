@@ -19,14 +19,14 @@ lang: zh
     <div class="contact-section">
         <h3>邮箱</h3>
         <p>
-            <strong>金林春 博士</strong><br>
-            课题负责人 / 首席研究员<br>
-            <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>
-        </p>
-        <p style="margin-top: 1.5rem;">
             <strong>詹仁亚 教授</strong><br>
             名誉主任<br>
             <a href="mailto:1196057@zju.edu.cn">1196057@zju.edu.cn</a>
+        </p>
+        <p style="margin-top: 1.5rem;">
+            <strong>金林春 博士</strong><br>
+            课题负责人 / 首席研究员<br>
+            <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>
         </p>
     </div>
 
