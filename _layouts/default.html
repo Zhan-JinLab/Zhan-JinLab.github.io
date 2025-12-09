@@ -8,8 +8,10 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    {% include header.html %}
-    {% include navigation.html %}
+    <div class="header-hero">
+        {% include header.html %}
+        {% include navigation.html %}
+    </div>
     
     <main class="main-content">
         {{ content }}
