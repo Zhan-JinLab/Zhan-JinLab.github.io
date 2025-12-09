@@ -21,10 +21,10 @@ title: Home
     <img src="{{ '/assets/images/ResearchFocus.jpg' | relative_url }}" alt="Research focus illustration">
 </div>
 
-<div class="home-section research-focus-block">
+<div class="home-section research-focus-block single-column">
     <div class="research-text">
         <h2>Research Focus</h2>
-        <div class="research-grid research-grid-five single-row">
+        <div class="research-grid single-row">
             <div class="research-area">
                 <h3>Cancer Neuroscience</h3>
                 <p>Investigating the unique neurobiological features of brain tumors and their microenvironment to identify novel therapeutic targets.</p>
@@ -46,9 +46,6 @@ title: Home
                 <p>Translating laboratory discoveries into clinical applications to improve outcomes for patients with brain tumors.</p>
             </div>
         </div>
-    </div>
-    <div class="research-visual">
-        <img src="{{ '/assets/images/ResearchFocus.jpg' | relative_url }}" alt="Research focus illustration showing glioblastoma immunology and CAR-T therapy">
     </div>
 </div>
 

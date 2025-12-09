@@ -279,7 +279,7 @@ a:hover {
 
 .research-focus-block {
     display: grid;
-    grid-template-columns: 1.6fr 1fr;
+    grid-template-columns: 1fr;
     gap: var(--spacing-xl);
     align-items: center;
 }
@@ -290,15 +290,12 @@ a:hover {
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
 }
 
-.research-grid-five {
-    grid-template-columns: repeat(5, minmax(170px, 1fr));
-    column-gap: var(--spacing-md);
-}
-
 .single-row {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(5, minmax(200px, 1fr));
     gap: var(--spacing-md);
+    overflow-x: auto;
+    padding-bottom: var(--spacing-sm);
 }
 
 .focus-image {
