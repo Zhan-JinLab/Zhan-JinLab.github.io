@@ -45,6 +45,10 @@ title: Home
                 <h3>Neuro-oncology</h3>
                 <p>Translating laboratory discoveries into clinical applications to improve outcomes for patients with brain tumors.</p>
             </div>
+            <div class="research-area">
+                <h3>Chimeric Receptor/Protein Engineering</h3>
+                <p>Designing and optimizing chimeric receptors and proteins to enhance immune cell function, targeting specificity, and therapeutic durability in solid tumors.</p>
+            </div>
         </div>
     </div>
 </div>

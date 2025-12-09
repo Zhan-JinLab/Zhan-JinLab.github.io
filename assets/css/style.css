@@ -298,7 +298,7 @@ a:hover {
 
 .single-row {
     display: grid;
-    grid-template-columns: repeat(5, minmax(200px, 1fr));
+    grid-template-columns: repeat(6, minmax(200px, 1fr));
     gap: var(--spacing-md);
     overflow-x: auto;
     padding-bottom: var(--spacing-sm);
