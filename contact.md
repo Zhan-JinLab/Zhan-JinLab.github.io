@@ -73,7 +73,7 @@ subtitle: Get in touch with the Zhan/Jin Laboratory
     </ul>
     
     <h4 style="color: white; margin-top: 2rem;">How to Apply</h4>
-    <p>Interested candidates should send the following to <a href="mailto:linchun.jin@zju.edu.cn" style="color: white; text-decoration: underline;">linchun.jin@zju.edu.cn</a>:</p>
+    <p>Interested candidates should send the following to <a href="mailto:linchun.jin@zju.edu.cn" style="color: white; text-decoration: underline;">linchun.jin@zju.edu.cn</a> and <a href="mailto:1196057@zju.edu.cn" style="color: white; text-decoration: underline;">1196057@zju.edu.cn</a>:</p>
     <ul style="text-align: left; display: inline-block; margin-top: 1rem;">
         <li>Curriculum vitae (CV)</li>
         <li>Brief statement of research interests (1 page)</li>
@@ -110,6 +110,6 @@ subtitle: Get in touch with the Zhan/Jin Laboratory
 
 <div style="background-color: var(--bg-light); padding: 2rem; border-radius: 8px; margin-top: 3rem;">
     <h3>Collaborations & Partnerships</h3>
-    <p>We are interested in establishing collaborations with academic institutions, clinical centers, and industry partners. If you are interested in collaborative research opportunities, technology licensing, or clinical translation partnerships, please contact Dr. Jin Linchun at <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>.</p>
+    <p>We are interested in establishing collaborations with academic institutions, clinical centers, and industry partners. If you are interested in collaborative research opportunities, technology licensing, or clinical translation partnerships, please contact Dr. Jin Linchun at <a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a> and Prof. Zhan Renya at <a href="mailto:1196057@zju.edu.cn">1196057@zju.edu.cn</a>.</p>
 </div>
 

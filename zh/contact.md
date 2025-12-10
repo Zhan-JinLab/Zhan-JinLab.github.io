@@ -59,7 +59,7 @@ lang: zh
     </ul>
     
     <h4 style="color: white; margin-top: 2rem;">如何申请</h4>
-    <p>请发送至 <a href="mailto:linchun.jin@zju.edu.cn" style="color: white; text-decoration: underline;">linchun.jin@zju.edu.cn</a>：</p>
+    <p>请发送至 <a href="mailto:linchun.jin@zju.edu.cn" style="color: white; text-decoration: underline;">linchun.jin@zju.edu.cn</a> 和 <a href="mailto:1196057@zju.edu.cn" style="color: white; text-decoration: underline;">1196057@zju.edu.cn</a>：</p>
     <ul style="text-align: left; display: inline-block; margin-top: 1rem;">
         <li>个人简历（CV）</li>
         <li>研究兴趣陈述（1页）</li>
@@ -72,3 +72,9 @@ lang: zh
     </p>
 </div>
 
+---
+
+<div style="background-color: var(--bg-light); padding: 2rem; border-radius: 8px; margin-top: 3rem;">
+    <h3>Collaborations & Partnerships</h3>
+    <p>我们对与高校、临床中心及企业合作感兴趣。如有科研合作、技术许可或临床转化合作意向，请联系金林春博士：<a href="mailto:linchun.jin@zju.edu.cn">linchun.jin@zju.edu.cn</a>，以及詹仁雅教授：<a href="mailto:1196057@zju.edu.cn">1196057@zju.edu.cn</a>。</p>
+</div>
