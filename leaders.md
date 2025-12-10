@@ -17,7 +17,7 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
     </div>
     <div class="leader-card">
         <div class="leader-meta">
-            <h3>Dr. Jin Linchun (Lunchun Jin, Kim), M.D., Ph.D.</h3>
+            <h3>Dr. Jin Linchun (Linchun Jin, Kim), M.D., Ph.D.</h3>
             <p class="role">Head of Laboratory | Principal Investigator</p>
             <p class="affil">Department of Neurosurgery, First Affiliated Hospital, Zhejiang University School of Medicine</p>
             <a class="leader-link" href="#jin-linchun">View full profile →</a>
@@ -73,7 +73,7 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         <img src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="Dr. Jin Linchun portrait">
     </div>
     <div class="profile-body">
-        <h3>Dr. Jin Linchun (Lunchun Jin, Kim), M.D., Ph.D.</h3>
+        <h3>Dr. Jin Linchun (Linchun Jin, Kim), M.D., Ph.D.</h3>
         <p class="title">Head of Laboratory | Principal Investigator</p>
         <p class="title">Department of Neurosurgery, First Affiliated Hospital, Zhejiang University School of Medicine</p>
         <p><strong>Contact:</strong> linchun.jin@zju.edu.cn</p>
