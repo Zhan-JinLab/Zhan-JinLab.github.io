@@ -31,7 +31,6 @@ lang: zh
 - 靶点：CD70、CXCR1/2 等
 - 趋化增强：携带 CXCR1/2 的 CAR-T 细胞
 - 代谢优化：提升 CAR-T 在肿瘤微环境的存活与功能
-- 检查点调控：整合 LAIR1 等新型检查点
 - 多靶策略：预防抗原逃逸
 
 ### 胶质母细胞瘤研究
@@ -57,7 +56,6 @@ lang: zh
 - CXCR1/2 修饰 CAR-T 共用 IL-8 提升迁移与杀伤（Nat Commun, 2019）
 - CD70 靶向 CAR-T 治疗胶质瘤（Neuro-Oncology, 2018）
 - 谷氨酸转运失调与 VEGF 耐药（Cancer Res, 2020）
-- 新型免疫检查点 LAIR1 阻断（在研）
 
 更多成果请查看我们的[论文]({{ '/publications/' | relative_url }})页面。
 

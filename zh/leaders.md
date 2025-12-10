@@ -87,7 +87,7 @@ lang: zh
         <p>脑肿瘤免疫治疗，尤其：</p>
         <ul>
             <li>胶质瘤与实体瘤的 CAR-T 细胞治疗</li>
-            <li>靶点发现：CD70、CXCR1/2、LAIR1 等</li>
+            <li>靶点发现：CD70、CXCR1/2 等</li>
             <li>肿瘤微环境免疫抑制与代谢调控</li>
             <li>CAR-T 代谢工程与持久性优化</li>
             <li>联合与多靶策略</li>
@@ -97,7 +97,6 @@ lang: zh
         <ul>
             <li>CD70 靶向 CAR-T 治疗胶质瘤</li>
             <li>CXCR1/2 修饰 CAR-T 利用 IL-8 提升肿瘤浸润</li>
-            <li>发现 LAIR1 作为新型免疫检查点</li>
             <li>相关专利：含 IL-8 受体的 CAR-T（US Patent 11,788,093）等</li>
         </ul>
 

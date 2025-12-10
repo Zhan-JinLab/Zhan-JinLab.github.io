@@ -89,7 +89,7 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         <p>Dr. Jin's research focuses on <strong>brain tumor immunotherapy</strong>, with particular expertise in:</p>
         <ul>
             <li>CAR-T cell therapy for glioblastoma and solid tumors</li>
-            <li>Novel target antigen discovery (CD70, CXCR1/2, LAIR1)</li>
+            <li>Novel target antigen discovery (CD70, CXCR1/2)</li>
             <li>Tumor microenvironment and immunosuppression</li>
             <li>Metabolic engineering of T cells for enhanced anti-tumor activity</li>
             <li>Combination immunotherapy strategies</li>
@@ -100,7 +100,6 @@ subtitle: Leadership in neurosurgery, neuro-oncology, and tumor immunotherapy
         <ul>
             <li>Development of CD70-targeted CAR-T cells for gliomas</li>
             <li>Engineering CXCR1/2-modified CAR-T cells that co-opt IL-8 for enhanced tumor trafficking</li>
-            <li>Discovery of LAIR1 as a novel immune checkpoint in glioblastoma</li>
             <li>Multiple patent applications including chimeric antigen receptor T-cells expressing IL-8 receptor (US Patent 11,788,093)</li>
         </ul>
 

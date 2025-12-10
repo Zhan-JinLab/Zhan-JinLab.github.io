@@ -32,15 +32,6 @@ Our laboratory has published extensively in high-impact journals, advancing the 
     </div>
 </div>
 
-<div class="publication">
-    <div class="publication-title">Blocking immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response</div>
-    <div class="publication-authors">H Tao, D Chen, C Yang, DT Nguyen, G Abboud, R Liu, T Liu, et al.</div>
-    <div class="publication-journal">The Journal of Clinical Investigation</div>
-    <div class="publication-meta">
-        <span class="publication-year">2025</span>
-    </div>
-</div>
-
 ### Glioblastoma Biology & Resistance Mechanisms
 
 <div class="publication">

@@ -24,7 +24,6 @@ Our laboratory specializes in five interconnected research areas:
 
 We are proud of our recent contributions to the field, including:
 
-- Publication in *The Journal of Clinical Investigation* on LAIR1 immune checkpoint blockade
 - Development of novel CAR-T cell therapies targeting CD70 and incorporating CXCR1/2 modifications
 - Patent awards for chimeric antigen receptor technologies
 - High-impact publications with over 600 citations for our lead articles

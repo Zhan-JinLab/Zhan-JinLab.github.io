@@ -14,7 +14,6 @@ lang: zh
 ### CAR-T 及免疫治疗
 - CXCR1/2 修饰 CAR-T 共用 IL-8 提升实体瘤疗效（Nat Commun, 2019）
 - CD70 作为胶质瘤 CAR-T 靶点（Neuro-Oncology, 2018）
-- LAIR1 检查点阻断/三合一 CAR-T 增强抗肿瘤应答（JCI, 2025）
 
 ### 胶质母细胞瘤生物学与耐药
 - GBM 治疗现状与耐药机制综述（Pharmacol Res, 2021）
