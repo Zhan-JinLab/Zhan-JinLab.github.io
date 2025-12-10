@@ -38,7 +38,7 @@ Chimeric antigen receptor (CAR) T cell therapy represents a promising approach f
 - **Target Antigen Discovery**: Identifying and validating tumor-associated antigens including CD70, CXCR1/2, and emerging targets
 - **Enhanced Tumor Trafficking**: Engineering CARs with chemokine receptors (e.g., CXCR1/2) to improve T cell migration into tumors
 - **Metabolic Optimization**: Modifying CAR-T cells to thrive in the hostile tumor metabolic environment
-- **Checkpoint Modulation**: Integrating checkpoint blockade (e.g., LAIR1) with CAR-T therapy
+- **Checkpoint Modulation**: Integrating checkpoint blockade with CAR-T therapy
 - **Multi-targeting Strategies**: Developing combination approaches to prevent antigen escape
 
 Notable achievements include the development of CD70-targeted CAR-T cells and CXCR2-modified CAR-T cells that co-opt tumor-derived IL-8 for enhanced chemotaxis and anti-tumor efficacy.
@@ -72,7 +72,7 @@ Our research has resulted in high-impact publications in leading journals includ
 - CXCR1/2-modified CAR T cells co-opt IL-8 for maximal antitumor efficacy (*Nat Commun*, 2019)
 - CD70 as a novel target of CAR T-cell therapy for gliomas (*Neuro-Oncology*, 2018)
 - Dysregulation of glutamate transport enhances Treg function promoting VEGF blockade resistance (*Cancer Res*, 2020)
-- Novel immune checkpoint LAIR1 blockade for glioblastoma therapy (ongoing clinical development)
+- Novel immune checkpoint blockade for glioblastoma therapy (ongoing clinical development)
 
 For a complete list, please visit our [Publications]({{ '/publications/' | relative_url }}) page.
 

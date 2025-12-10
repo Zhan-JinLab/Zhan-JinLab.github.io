@@ -3,12 +3,6 @@
 
 - year: 2025
   publications:
-    - title: "Blocking immune checkpoint LAIR1 with antibody blockade or 3-in-1 CAR T cells enhances antitumor response"
-      authors: "H Tao, D Chen, C Yang, DT Nguyen, G Abboud, R Liu, T Liu, [...], L Jin"
-      journal: "The Journal of Clinical Investigation"
-      citations: 2
-      doi: null
-      topic: "CAR-T"
 
     - title: "In Situ Ferroptosis with Global Dynamics Visualization for Glioblastoma Theranostics"
       authors: "R Mungur, P Han, J Gu, K Zhang, X Zhang, M Chatoo, Y Liu, R Shi, H He, [...], L Jin"
