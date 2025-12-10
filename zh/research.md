@@ -4,6 +4,7 @@ layout: page
 title: 研究
 subtitle: 融合癌症神经科学、免疫学与细胞工程，推进脑肿瘤免疫治疗
 lang: zh
+permalink: /zh/research/
 ---
 
 ## 概述
