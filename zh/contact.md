@@ -38,7 +38,7 @@ lang: zh
         </p>
         <p style="margin-top: 1.5rem;">
             <strong>神经外科</strong><br>
-            科室主任：詹仁亚教授
+            科室主任：詹仁雅教授、郑秀珏主任
         </p>
     </div>
 </div>

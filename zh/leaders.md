@@ -11,7 +11,7 @@ lang: zh
     <div class="leader-card">
         <div class="leader-meta">
             <h3>詹仁雅 教授，M.D., Ph.D.</h3>
-            <p class="role">实验室主任</p>
+            <p class="role">科室主任 | 实验室主任</p>
             <p class="affil">浙江大学医学院附属第一医院神经外科</p>
             <a class="leader-link" href="#zhan-renya">查看完整简介 →</a>
         </div>
@@ -34,7 +34,7 @@ lang: zh
     </div>
     <div class="profile-body">
         <h3>詹仁雅 教授，M.D., Ph.D.</h3>
-        <p class="title">教授 | 博士生导师 | 实验室主任</p>
+        <p class="title">教授 | 博士生导师 | 科室主任 | 实验室主任</p>
         <p class="title">浙江大学医学院附属第一医院神经外科</p>
         <p><strong>邮箱：</strong>1196057@zju.edu.cn</p>
 

@@ -10,7 +10,7 @@ lang: zh
 <div class="photo-grid">
     <div class="photo-item">
         <img src="{{ '/assets/images/ZhanRenya.jpg' | relative_url }}" alt="詹仁亚 教授">
-        <p class="photo-caption">詹仁亚 教授</p>
+        <p class="photo-caption">詹仁雅 教授</p>
     </div>
     <div class="photo-item">
         <img src="{{ '/assets/images/JinLinchun.jpg' | relative_url }}" alt="金林春 博士">
