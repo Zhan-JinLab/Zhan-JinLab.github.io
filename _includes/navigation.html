@@ -5,6 +5,33 @@
   {% assign lang_prefix = '' %}
 {% endif %}
 
+{% comment %}
+Logic for page-specific language switching:
+1. Determine the 'base' path of the current page (e.g. '/research/') without the lang prefix.
+2. If current page is home ('/' or '/zh/'), base path is '/'.
+3. Construct the target URLs:
+   - EN target: base path (e.g. '/research/')
+   - ZH target: '/zh' + base path (e.g. '/zh/research/')
+{% endcomment %}
+
+{% assign page_url = page.url %}
+{% if current_lang == 'zh' %}
+  {% if page_url == '/zh/' %}
+    {% assign base_path = '/' %}
+  {% else %}
+    {% assign base_path = page_url | remove_first: '/zh' %}
+  {% endif %}
+{% else %}
+  {% assign base_path = page_url %}
+{% endif %}
+
+{% assign en_url = base_path %}
+{% if base_path == '/' %}
+  {% assign zh_url = '/zh/' %}
+{% else %}
+  {% assign zh_url = '/zh' | append: base_path %}
+{% endif %}
+
 <nav class="main-nav">
     <div class="nav-container">
         <ul class="nav-list">
@@ -18,10 +45,9 @@
             <li><a href="{{ (lang_prefix | append: '/contact/') | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>{% if current_lang == 'zh' %}联系{% else %}Contact{% endif %}</a></li>
         </ul>
         <div class="lang-switch nav-lang">
-            <a class="{% if current_lang == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}">EN</a>
+            <a class="{% if current_lang == 'en' %}active{% endif %}" href="{{ en_url | relative_url }}">EN</a>
             <span class="sep">|</span>
-            <a class="{% if current_lang == 'zh' %}active{% endif %}" href="{{ '/zh/' | relative_url }}">中文</a>
+            <a class="{% if current_lang == 'zh' %}active{% endif %}" href="{{ zh_url | relative_url }}">中文</a>
         </div>
     </div>
 </nav>
-
