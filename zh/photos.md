@@ -26,7 +26,7 @@ lang: zh
     </div>
     <div class="photo-item">
         <img src="{{ '/assets/images/ShiRui.jpg' | relative_url }}" alt="施瑞">
-        <p class="photo-caption">施瑞</p>
+        <p class="photo-caption">史锐</p>
     </div>
 </div>
 

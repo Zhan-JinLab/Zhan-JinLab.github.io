@@ -19,8 +19,8 @@ lang: zh
     <div class="contact-section">
         <h3>邮箱</h3>
         <p>
-            <strong>詹仁亚 教授</strong><br>
-            名誉主任<br>
+            <strong>詹仁雅 教授</strong><br>
+            实验室主任<br>
             <a href="mailto:1196057@zju.edu.cn">1196057@zju.edu.cn</a>
         </p>
         <p style="margin-top: 1.5rem;">

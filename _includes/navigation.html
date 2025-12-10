@@ -8,14 +8,14 @@
 <nav class="main-nav">
     <div class="nav-container">
         <ul class="nav-list">
-            <li><a href="{{ (lang_prefix | append: '/') | relative_url }}" {% if page.url == '/' or page.url == '/zh/' %}class="active"{% endif %}>Home</a></li>
-            <li><a href="{{ (lang_prefix | append: '/research/') | relative_url }}" {% if page.url contains '/research' %}class="active"{% endif %}>Research</a></li>
-            <li><a href="{{ (lang_prefix | append: '/leaders/') | relative_url }}" {% if page.url contains '/leaders' %}class="active"{% endif %}>Leaders</a></li>
-            <li><a href="{{ (lang_prefix | append: '/team/') | relative_url }}" {% if page.url contains '/team' %}class="active"{% endif %}>Team</a></li>
-            <li><a href="{{ (lang_prefix | append: '/publications/') | relative_url }}" {% if page.url contains '/publications' %}class="active"{% endif %}>Publications</a></li>
-            <li><a href="{{ (lang_prefix | append: '/news/') | relative_url }}" {% if page.url contains '/news' %}class="active"{% endif %}>News</a></li>
-            <li><a href="{{ (lang_prefix | append: '/photos/') | relative_url }}" {% if page.url contains '/photos' %}class="active"{% endif %}>Photos</a></li>
-            <li><a href="{{ (lang_prefix | append: '/contact/') | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>Contact</a></li>
+            <li><a href="{{ (lang_prefix | append: '/') | relative_url }}" {% if page.url == '/' or page.url == '/zh/' %}class="active"{% endif %}>{% if current_lang == 'zh' %}首页{% else %}Home{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/research/') | relative_url }}" {% if page.url contains '/research' %}class="active"{% endif %}>{% if current_lang == 'zh' %}研究{% else %}Research{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/leaders/') | relative_url }}" {% if page.url contains '/leaders' %}class="active"{% endif %}>{% if current_lang == 'zh' %}领军团队{% else %}Leaders{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/team/') | relative_url }}" {% if page.url contains '/team' %}class="active"{% endif %}>{% if current_lang == 'zh' %}团队{% else %}Team{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/publications/') | relative_url }}" {% if page.url contains '/publications' %}class="active"{% endif %}>{% if current_lang == 'zh' %}论文{% else %}Publications{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/news/') | relative_url }}" {% if page.url contains '/news' %}class="active"{% endif %}>{% if current_lang == 'zh' %}新闻{% else %}News{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/photos/') | relative_url }}" {% if page.url contains '/photos' %}class="active"{% endif %}>{% if current_lang == 'zh' %}照片{% else %}Photos{% endif %}</a></li>
+            <li><a href="{{ (lang_prefix | append: '/contact/') | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>{% if current_lang == 'zh' %}联系{% else %}Contact{% endif %}</a></li>
         </ul>
         <div class="lang-switch nav-lang">
             <a class="{% if current_lang == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}">EN</a>

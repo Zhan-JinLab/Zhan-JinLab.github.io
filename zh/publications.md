@@ -31,7 +31,7 @@ lang: zh
 
 ## 按年份查看
 
-### 詹仁亚 教授
+### 詹仁雅 教授
 完整列表（111 篇）请见：
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Zhan+Renya%5BAuthor%5D+OR+Zhan+RY%5BAuthor%5D+OR+reyna+zhan%5BAuthor%5D) ｜ [ResearchGate](https://www.researchgate.net/scientific-contributions/Renya-Zhan-14439456)
 

@@ -34,7 +34,7 @@ lang: zh
     <div class="team-row">
         <img class="team-avatar" src="{{ '/assets/images/ShiRui.jpg' | relative_url }}" alt="施瑞">
         <div>
-            <h3>施瑞</h3>
+            <h3>史锐</h3>
             <p class="title">医学硕士，浙江大学医学院（已毕业）</p>
         </div>
     </div>
