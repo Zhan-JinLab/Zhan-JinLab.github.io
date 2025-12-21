@@ -2,7 +2,7 @@
 title: "Zhan/Jin Lab"
 description: "Cancer Neuroscience · Cancer Immunology · CAR-T · Glioblastoma · Neuro-oncology"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://zhanjinlab.org.cn" # the base hostname & protocol for your site
 
 # Lab information
 lab:
@@ -15,6 +15,11 @@ lab:
 # Build settings
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Collections
 collections:
